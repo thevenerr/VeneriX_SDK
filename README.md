@@ -40,7 +40,7 @@ CMakeLists.txt    Build configuration
 
 ## Writing your game
 
-`App.cpp` contains a minimal scene and application setup. See the [engine documentation](https://github.com/thevenerr/VeneriX) for the full API reference and usage examples.
+`App.cpp` contains a minimal scene and application setup. See the [engine documentation](https://thevenerr.github.io/VeneriX/api.html) for the full API reference and usage examples.
 
 ## License
 
